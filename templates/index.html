@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Injury Severity Prediction</title>
+</head>
+<body>
+    <h2>Enter Collision Details</h2>
+    <form method="POST" action="/predict">
+        {% for col in feature_names %}
+        <label>{{ col.replace('_', ' ') }}</label>
+        <select name="{{ col }}">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+        <br><br>
+        {% endfor %}
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>

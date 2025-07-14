@@ -1,0 +1,50 @@
+0
+INVTYPE_Cyclist Passenger
+INVTYPE_Driver
+INVTYPE_Driver - Not Hit
+INVTYPE_In-Line Skater
+INVTYPE_Moped Driver
+INVTYPE_Moped Passenger
+INVTYPE_Motorcycle Driver
+INVTYPE_Motorcycle Passenger
+INVTYPE_Other
+INVTYPE_Other Property Owner
+INVTYPE_Passenger
+INVTYPE_Pedestrian
+INVTYPE_Pedestrian - Not Hit
+INVTYPE_Trailer Owner
+INVTYPE_Truck Driver
+INVTYPE_Vehicle Owner
+INVTYPE_Wheelchair
+INVTYPE_Witness
+IMPACTYPE_Approaching
+IMPACTYPE_Cyclist Collisions
+IMPACTYPE_Other
+IMPACTYPE_Pedestrian Collisions
+IMPACTYPE_Rear End
+IMPACTYPE_SMV Other
+IMPACTYPE_SMV Unattended Vehicle
+IMPACTYPE_Sideswipe
+IMPACTYPE_Turning Movement
+INVAGE_10 to 14
+INVAGE_15 to 19
+INVAGE_20 to 24
+INVAGE_25 to 29
+INVAGE_30 to 34
+INVAGE_35 to 39
+INVAGE_40 to 44
+INVAGE_45 to 49
+INVAGE_5 to 9
+INVAGE_50 to 54
+INVAGE_55 to 59
+INVAGE_60 to 64
+INVAGE_65 to 69
+INVAGE_70 to 74
+INVAGE_75 to 79
+INVAGE_80 to 84
+INVAGE_85 to 89
+INVAGE_90 to 94
+INVAGE_Over 95
+INVAGE_unknown
+ACCLASS_Non-Fatal Injury
+ACCLASS_Property Damage O
